@@ -1,0 +1,2 @@
+This page would include a title, navigation bar, an image of James and a brief description of the website.
+The navigation bar would include likes to the likes page, dislikes page, about page, gallery page and the development team contact page.
