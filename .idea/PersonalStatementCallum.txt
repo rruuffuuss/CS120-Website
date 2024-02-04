@@ -1,0 +1,22 @@
+For my personal statement I will detail what I did throughout the group project. We collectively had a meeting about
+what we would do for the website, I suggested that we all know James that the website should be about him, this is also
+something that we could collate content about and each person would have an equal-ish amount of knowledge regarding the
+subject.
+
+I use inteliJ and bit bucket at work so I have some experience regarding what needs done although bit bucket was already
+set up on my pc when I joined work so I hadn't had to install it though I have made many feature branches for different
+JIRAS at work.
+
+I had a little trouble as when I downloaded GIT inteliJ wanted to install a lower version but after a few attempts I
+managed to get it working. All of the pages for the website had been uploaded the file I am uploading is my personal
+statement as what is already there is what was discussed at the meeting.
+
+My knowledge of repositories came from when I began at work, this is something that all apprentices will use very early
+on, because of that I would encourage lecturers to do this at the beginning with next years group as it's actually very
+important for our roles and would of saved me a lot of issues as the videos were very well explained and this would of
+been really useful to me beginning the course.
+
+The team did really well on this, I was instrumental in the planning but I didn't set up the repository and could of
+been more proactive with that. For this I am grateful for the team and very much appreciate everyones contribution.
+I was also good to work with memebers of the course which I hadnt worked with or spoken to as of yet.
+
