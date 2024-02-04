@@ -1,1 +1,3 @@
 This page would include thumbnails and short bios for similar factfile type websites on other lecturers
+>Warren Chan| CS121 lecturer
+>Bill Vance | CS274 learning advisor
